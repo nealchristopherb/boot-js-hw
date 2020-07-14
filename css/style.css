@@ -75,29 +75,3 @@
     margin-top: 20px;
 }
 
-.resets { 
-.box1 {
-    margin-left: 50px;
-    margin-right: 50px;
-    height: 200px;
-    width: 200px;
-    border:2px solid black;
-    background-color: red;
-}
-.box2 {
-    margin-left: 50px;
-    margin-right: 50px;
-    height: 200px;
-    width: 200px;
-    border:2px dashed yellow;
-    background-color: blue;
-    )
-    .box3 {
-        margin-left: 50px;
-        margin-right: 50px;
-        height: 200px;
-        width: 200px;
-        border:2px solid purple;
-        background-color: green;
-        }
-    }
