@@ -1,6 +1,6 @@
 $(".changeBox1").click(function(){   
     $(".box1").toggleClass("box1Change");
-    console.log("script in root")
+    console.log("script in root");
 })
 
 $(".changeBox2").click(function(){
